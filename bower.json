@@ -21,6 +21,7 @@
     "tests"
   ],
   "devDependencies": {
-    "requirejs": "~2.1.14"
+    "requirejs": "~2.1.14",
+    "angular": "~1.2.18"
   }
 }
