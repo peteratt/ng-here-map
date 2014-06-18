@@ -1,0 +1,24 @@
+{
+  "name": "ng-here-map",
+  "version": "0.0.0",
+  "description": "An AngularJS directive + service that wraps an instance of HERE Maps API for Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peteratt/ng-here-map.git"
+  },
+  "keywords": [
+    "here",
+    "maps",
+    "angular"
+  ],
+  "author": "Pedro Alvarez-Tabio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peteratt/ng-here-map/issues"
+  },
+  "homepage": "https://github.com/peteratt/ng-here-map"
+}
